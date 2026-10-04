@@ -19,7 +19,6 @@ public class DBConnection {
 					USER,
 					PASSWORD
 			);
-			System.out.println("Database Connected SuccessFully!");
 		}catch(SQLException e) {
 			System.out.println("Database Connection Failed!");
 		}
