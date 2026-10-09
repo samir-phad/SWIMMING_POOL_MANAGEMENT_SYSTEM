@@ -33,7 +33,14 @@ The system allows the user to:
 
 ## 📂 Project Structure
 
-SWIMMINGPOOLMANAGEMENT_SYSTEM/ │ ├── src/ │ └── com/ │ └── swimmingpool/ │ ├── SwimmingPool.java │ └── SwimmingPoolInterface.java │ ├── README.md └── ...
+SWIMMINGPOOLMANAGEMENT_SYSTEM/ │ 
+├── src/ 
+│ └── com/ 
+│ └── swimmingpool/ 
+│ ├── SwimmingPool.java 
+│ └── SwimmingPoolInterface.java │ 
+├── README.md 
+└── ...
 
 
 ## 👨‍💻 Author
