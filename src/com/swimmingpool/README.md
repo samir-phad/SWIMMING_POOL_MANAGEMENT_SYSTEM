@@ -22,6 +22,7 @@ The system allows the user to:
 - 📑 Use `switch-case` to provide a menu-driven system
 - 🔌 Use the `SwimmingPoolInterface` interface and implement it in the `SwimmingPool` class
 - 🗄️ Store and retrieve member data from a MySQL table using JDBC
+........................................................
 
 ## 🛠️ Technologies Used
 
